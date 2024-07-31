@@ -3,7 +3,7 @@ This repository contains a comprehensive analysis of sales data, leveraging data
 
 # Dataset
 The dataset used in this project is provided in the following file:
-* # 'sales_data_sample.csv'
+* 'sales_data_sample.csv'
   
 This dataset includes various fields such as order dates, sales amounts, customer information, and product details.
 
@@ -18,4 +18,4 @@ The analysis process involves the following steps:
   # Results
   The results of the analysis are presented in a Power BI dashboard, which provides interactive visualizations to explore the insights derived from the data. The dashboard can be found in the file:
 
-  * # 'SALES DATA ANALYSIS.pbix'
+  *  'SALES DATA ANALYSIS.pbix'
